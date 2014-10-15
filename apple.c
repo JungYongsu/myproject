@@ -2,5 +2,6 @@
 
 void main()
 {
-	printf("Hello Word\n");
+	printf("Wonderful my World\n");
+	
 }
