@@ -3,6 +3,7 @@
 void main()
 {
 	printf("Wonderful my World\n");
+	printf("OH\n");
 	printf("My world is wonderful\n");
 	
 }
